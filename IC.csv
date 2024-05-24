@@ -1,0 +1,115 @@
+﻿sentences,intention
+How is the weather today,weather
+Will it rain today,weather
+What's the forecast for tomorrow,weather
+Is it sunny outside,weather
+Do I need an umbrella today,weather
+How hot will it get this afternoon,weather
+Is there a chance of thunderstorms tonight,weather
+What's the temperature right now,weather
+How cold will it be tomorrow morning,weather
+Is there snow in the forecast,weather
+Will it be windy today,weather
+Is the weather clear for the weekend,weather
+How humid is it outside,weather
+Are there any severe weather warnings,weather
+Will it rain this weekend,weather
+Is it going to be cloudy today,weather
+Should I expect fog in the morning,weather
+How is the weather at the beach,weather
+Is there a heatwave coming,weather
+What's the air quality like today,weather
+How do I register for an account,membership
+How can I close my account,membership
+What are the benefits of membership,membership
+How do I update my profile information,membership
+Is there a fee to join,membership
+How do I reset my password,membership
+Can I upgrade my membership plan,membership
+How do I check my membership status,membership
+How do I cancel my subscription,membership
+Are there any discounts for members,membership
+How do I renew my membership,membership
+Can I transfer my membership to someone else,membership
+How do I change my payment method,membership
+What happens if my membership expires,membership
+How do I contact customer support,membership
+Are there any membership promotions currently,membership
+How do I access member-only content,membership
+How do I redeem a membership code,membership
+What is the refund policy for memberships,membership
+How long does it take to activate my membership,membership
+Hello,greeting
+Good morning,greeting
+Hi there,greeting
+Good afternoon,greeting
+How are you,greeting
+Nice to meet you,greeting
+Good evening,greeting
+How's it going,greeting
+Hey,greeting
+How have you been,greeting
+It's a pleasure to meet you,greeting
+How's your day,greeting
+Greetings,greeting
+Long time no see,greeting
+What's up,greeting
+How do you do,greeting
+"Hello, everyone",greeting
+"Hi, how are things",greeting
+Bye-bye,quit
+"Okay, I don't have any more questions",quit
+Goodbye,quit
+See you later,quit
+I'm logging off now,quit
+Take care,quit
+I'm done for now,quit
+Catch you later,quit
+I'm signing off,quit
+Have a great day,quit
+I'm leaving,quit
+Talk to you soon,quit
+That's all for today,quit
+That's call it a day,quit
+See you next time,quit
+Peace out,quit
+How do I lose belly fat,fitness
+What's the best way to lose weight,fitness
+How can I cut down 5 kgs in a month,fitness
+What are some effective workout routines,fitness
+How do I build muscle,fitness
+What should I eat to lose weight,fitness
+How often should I exercise,fitness
+What's the best exercise for abs,fitness
+How can I improve my stamina,fitness
+What are some good cardio exercises,fitness
+How do I tone my arms,fitness
+What's a healthy diet plan for weight loss,fitness
+How much water should I drink daily,fitness
+How do I stay motivated to work out,fitness
+What's the best time of day to exercise,fitness
+How can I improve my flexibility,fitness
+What are some tips for running faster,fitness
+How do I recover after a workout,fitness
+How important is sleep for fitness,fitness
+Can you recommend a beginner workout plan,fitness
+How do I book a flight,travel
+How can I apply for a visa,travel
+What's the best way to plan a perfect weekend trip,travel
+How do I find cheap flights,travel
+What are some top travel destinations,travel
+How do I pack efficiently for a trip,travel
+How do I get travel insurance,travel
+What are the best travel apps,travel
+How do I plan an international trip,travel
+How do I find good travel deals,travel
+What should I include in my travel itinerary,travel
+How do I exchange currency when traveling,travel
+What are some travel safety tips,travel
+How do I book a hotel,travel
+How can I travel on a budget,travel
+What should I do if I lose my passport,travel
+How do I navigate a new city,travel
+What's the best way to travel with kids,travel
+How do I avoid jet lag,travel
+What are the must-see attractions in Paris,travel
